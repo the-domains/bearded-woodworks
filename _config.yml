@@ -1,0 +1,28 @@
+name: Bearded Woodworks
+favicon: null
+layout_spectrum: 0.7593401030171663
+typography_spectrum: 0.3989465010818094
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.061341555789113045
+  lightness: 0.9831256547477096
+  saturation: 0.6379224890843034
+  rhythmicContrast: 0.784097061259672
+purpose: []
