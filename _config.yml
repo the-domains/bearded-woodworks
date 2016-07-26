@@ -1,5 +1,4 @@
-favicon: null
-name: Bearded Woodworks
+layout_spectrum: 0.188172
 opengraph:
   image: null
   type: null
@@ -10,26 +9,25 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
   saturation: 0.5800478
-  lightness: 0.9831256
   brandStrength: 0.834528
+  lightness: 0.9831256
   brandColors:
-    - '#F5F5F5'
+    - '#FFFFFF'
     - '#000000'
-    - '#646466'
-    - '#B7B7B7'
-    - '#29ABDF'
+    - '#3F3F3F'
+    - '#A9A9A9'
+    - '#DCDCDC'
   rhythmicContrast: 0.6983274
 typography_spectrum: 0.4271207
-layout_spectrum: 0.7593401030171663
 cta:
   bucket: null
   version: null
@@ -38,3 +36,5 @@ analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: Bearded Woodworks
